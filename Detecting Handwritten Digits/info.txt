@@ -1,1 +1,1 @@
-
+This project is about detecting Handwritten digits here i have used Mnist dataset and i have built this model using tensorflow and keras.
